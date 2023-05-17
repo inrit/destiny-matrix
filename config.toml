@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://www.destiny-matrix.com'
 languageCode = 'en-us'
 title = 'InSight'
 theme = 'diary'

@@ -1,3 +1,14 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'InSight'
+theme = 'diary'
+
+[[menu.main]]
+name = 'About'
+url = '/about/about'
+weight = 0
+
+[[menu.main]]
+name = 'Categories'
+url = '/Categories'
+weight = 1

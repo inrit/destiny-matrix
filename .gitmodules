@@ -1,3 +1,6 @@
 [submodule "themes/diary"]
 	path = themes/diary
 	url = https://github.com/AmazingRise/hugo-theme-diary.git
+[submodule "themes/destiny"]
+	path = themes/destiny
+	url = https://github.com/daikondev/destiny-matrix-theme.git

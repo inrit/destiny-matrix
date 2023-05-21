@@ -1,6 +1,7 @@
 baseURL = 'https://www.destiny-matrix.com'
 languageCode = 'en-us'
 title = 'InSight'
+copyright = 'Copyright 2023 InSight. All rights reserved.'
 theme = 'diary'
 
 [[menu.main]]

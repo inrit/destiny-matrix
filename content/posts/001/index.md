@@ -2,11 +2,13 @@
 title: "What is Destiny Matrix?"
 date: 2023-05-19T23:31:46+03:00
 draft: false
-featured_image: 'IMG_0878.webp'
-categories: ["basics", "beginner"   ]
+categories: ["basics", "beginner"]
+featured_image: '/001/IMG_0878.webp'
+resources: 
+    -name: header
 ---
 
-![](static/IMG_0878.jpeg)
+![](/001/IMG_0878.webp)
 
 # Unlocking Your Path: The Power of the Destiny Matrix
 

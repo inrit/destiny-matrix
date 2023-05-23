@@ -17,14 +17,14 @@ If you prefer an online approach, you can use an intuitive tool like the Destiny
 ## Building the Destiny Matrix:
 
 To begin constructing your Destiny Matrix, follow these simple steps:   
-{{<image link="DestinyMatrix-Square.webp" alt="A square.">}}
+{{<image link="DestinyMatrix-Square.webp" alt="">}}
 1.  Draw a Straight Square: The birth square, representing the foundation of your Destiny Matrix, is the starting point. This square holds vital information about your ancestors, gender-specific tasks, and the energetic legacy passed down through generations.
 
-{{<image link="DestinyMatrix-Square2.webp" alt="A diamond overlaid on top of the square.">}}
+{{<image link="DestinyMatrix-Square2.webp" alt="">}}
 
 2.  Draw a Diagonal Square: Next, draw a diagonal square, known as the personality square. This square unveils your unique qualities and characteristics, revealing the essence of who you are.
 
-{{<image link="DestinyMatrix-Lines.webp" alt="Vertical, horizontal and diagonal lines overlaid on top of the previous shape.">}}
+{{<image link="DestinyMatrix-Lines.webp" alt="">}}
 
 3.  Connect with Diagonal Lines: Complete your Destiny Matrix by connecting the corners of the straight square with diagonal lines. This intricate web symbolizes the interplay between different energies and aspects of your life.
 
@@ -32,7 +32,7 @@ To begin constructing your Destiny Matrix, follow these simple steps:
 
 Let's walk through an example calculation using the date 11/28/1990:
 
-{{< image link="DestinyMatrix-Center.webp" alt="The following numbers are positioned in the edges of the diamond, starting from the top and moving clockwise: 11, 19, 4, 10. The number 8 is positioned in the center.">}}
+{{< image link="DestinyMatrix-Center.webp" alt="">}}
 
 #### 1.  Fill the Day, Month and Year of Birth:
     -   First Number: Take the day of birth, which is 28. Since it's greater than 22, add up the digits: 28 = 2 + 8 = 10.

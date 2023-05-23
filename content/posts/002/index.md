@@ -3,6 +3,7 @@ title: "How to Draw your Destiny Matrix"
 date: 2023-05-22T15:03:29+03:00
 draft: true
 description: "Discover how to understand and create your Destiny Matrix, a powerful tool that unveils your life's purpose and potential. Learn the steps to build your own matrix and gain insights into ancestral influences, personal qualities, and the energies shaping your path."
+featured_image: 'DestinyMatrix-calculation.webp'
 categories: ["begginer", "intro", "diy"]
 ---
 
@@ -16,20 +17,23 @@ If you prefer an online approach, you can use an intuitive tool like the Destiny
 ## Building the Destiny Matrix:
 
 To begin constructing your Destiny Matrix, follow these simple steps:   
-{{< figure src="/images/002/DestinyMatrix-Square.webp" alt="An image of a square box.">}}
+{{<image link="DestinyMatrix-Square.webp" alt="A square.">}}
 1.  Draw a Straight Square: The birth square, representing the foundation of your Destiny Matrix, is the starting point. This square holds vital information about your ancestors, gender-specific tasks, and the energetic legacy passed down through generations.
 
-{{< figure src="/images/002/DestinyMatrix-Square2.webp" alt="A diamond shape overlayed on top of a square.">}}
+{{<image link="DestinyMatrix-Square2.webp" alt="A diamond overlaid on top of the square.">}}
 
 2.  Draw a Diagonal Square: Next, draw a diagonal square, known as the personality square. This square unveils your unique qualities and characteristics, revealing the essence of who you are.
-{{<figure src="/images/002/DestinyMatrix-Lines.webp" alt="An image of a vertical, a horizontal and two diagonal lines overlayed on top of the diamond and square shape.">}}
+
+{{<image link="DestinyMatrix-Lines.webp" alt="Vertical, horizontal and diagonal lines overlaid on top of the previous shape.">}}
+
 3.  Connect with Diagonal Lines: Complete your Destiny Matrix by connecting the corners of the straight square with diagonal lines. This intricate web symbolizes the interplay between different energies and aspects of your life.
 
 ### An Example Calculation:
 
 Let's walk through an example calculation using the date 11/28/1990:
 
-{{<figure src="/images/002/DestinyMatrix-Center.webp">}}
+{{< image link="DestinyMatrix-Center.webp" alt="The following numbers are positioned in the edges of the diamond, starting from the top and moving clockwise: 11, 19, 4, 10. The number 8 is positioned in the center.">}}
+
 #### 1.  Fill the Day, Month and Year of Birth:
     -   First Number: Take the day of birth, which is 28. Since it's greater than 22, add up the digits: 28 = 2 + 8 = 10.
     -   Second Number: Consider the month of birth, which is 11.
@@ -41,15 +45,13 @@ Let's walk through an example calculation using the date 11/28/1990:
 #### 4.  Calculate the numbers in-between:
     -   Add the numbers from the corners. Simplify it and write it down.
 
-![[DestinyMatrix-calculation.webp]]
+{{<image link="DestinyMatrix-calculation.webp" alt="">}}
 ## Understanding the Numbers in Your Destiny Matrix:
 
 Each number within your Destiny Matrix carries significant meaning, drawing interpretations from the 22 Major Arcana of the Tarot. While providing a comprehensive description of each energy is impractical here, it's important to note that understanding your Destiny Matrix requires expertise. Professionals and experienced specialists can offer accurate interpretations and valuable insights into the unique energies shaping your life.
 
-![[DestinyMatrix-MaleLine.webp]]
-
-![[DestinyMatrix-FemaleLine.webp]]
-
+{{<image link="DestinyMatrix-MaleLine.webp" alt="">}}
+{{<image link="DestinyMatrix-FemaleLine.webp" alt="">}}
 ## What Can Be Learned Using Your Destiny Matrix?
 
 By exploring and deciphering your Destiny Matrix, you can gain profound insights into your life's purpose, challenges, talents and full potential.

@@ -4,6 +4,9 @@ title = 'InSight'
 copyright = 'Copyright 2023 InSight. All rights reserved.'
 theme = 'destiny'
 
+[params]
+description = "Delve into the Destiny Matrix and Unleash Your True Potential. Seeking a life of fulfillment and purpose? Discover the secrets of the Destiny Matrix and learn how to create the life you want."
+
 [[menu.main]]
 name = 'About'
 url = '/about'

@@ -4,7 +4,7 @@ date: 2023-05-22T15:03:29+03:00
 draft: false
 description: "Discover how to understand and create your Destiny Matrix, a powerful tool that unveils your life's purpose and potential. Learn the steps to build your own matrix and gain insights into ancestral influences, personal qualities, and the energies shaping your path."
 featured_image: 'DestinyMatrix-calculation.webp'
-categories: ["begginer", "intro", "diy"]
+categories: ["beginner", "intro", "diy"]
 ---
 
 ## Introduction

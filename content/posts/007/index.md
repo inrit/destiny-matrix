@@ -12,7 +12,7 @@ Within the vast tapestry of Destiny Matrix, each number holds profound significa
 
 {{<image link="5-dark.webp" alt="5th arcana attributes dark version">}}
 
-### Short Summarized Pros and Cons:
+### Summarized Pros and Cons:
 Before delving deeper, let's briefly explore the summarized pros and cons associated with the 5th Arcana in the Destiny Matrix:
 
 #### Pros:

@@ -10,6 +10,8 @@ featured_image: '3-vector.webp'
 ### Introduction:
 Within the intricate tapestry of Destiny Matrix, each number holds profound significance, offering unique insights into the human experience. In this article, we embark on a journey of discovery to unravel the essence of the 3rd Arcana, a captivating archetype symbolizing abundance, creativity, and nurturing energy. By delving into the depths of the 3rd Arcana, we gain valuable insights into how individuals can tap into their creative potential, cultivate harmonious relationships, and embrace the joys of nurturing oneself and others.
 
+{{<image link="3-dark.webp" alt="3rd arcana attributes dark version">}}
+
 ### Pros and Cons:
 Before delving deeper, let's briefly explore the summarized pros and cons associated with the 3rd Arcana in the Destiny Matrix:
 
@@ -35,8 +37,6 @@ Example: A person who continuously sacrifices their own well-being to fulfill th
 - **Creative blocks and self-doubt**: The 3rd Arcana can occasionally manifest as creative blocks or self-doubt, hindering individuals' ability to tap into their creative potential and express themselves fully.
 Example: A person who struggles with writer's block, feeling a sense of self-doubt and questioning their writing abilities, leading to a lack of productivity.
 - **Emotional dependency and need for validation**: Individuals influenced by the 3rd Arcana may seek external validation and emotional support excessively, relying on others' opinions to feel worthy or validated. Example: A person who constantly seeks reassurance and approval from others, feeling a sense of insecurity or lack of self-confidence without external validation.
-
-{{<image link="3-dark.webp" alt="3rd arcana attributes dark version">}}
 
 ### Overview and Conclusion:
 The 3rd Arcana within Destiny Matrix encompasses the nurturing energy of the universe, abundant creativity, and the capacity to cultivate harmonious relationships. By embracing the positive attributes associated with this archetype, individuals can unlock their creative potential, foster nurturing connections, and manifest abundance in various aspects of life. However, it is important to be mindful of the potential pitfalls, such as overindulgence or codependency, and strive for balance and self-awareness.

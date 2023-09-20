@@ -10,6 +10,8 @@ featured_image: '2-vector.webp'
 ### Introduction:
 In the intriguing realm of the Destiny Matrix, each number holds profound significance, representing unique energies and qualities. This article explores the essence of the number two, known as the 2nd Arcana, within the Destiny Matrix system. We will delve into its positive and negative aspects, providing an overview of its energy and offering comprehensive explanations of the energies associated with the 2nd Arcana.
 
+{{<image link="2-dark.webp" alt="2nd arcana attributes dark version">}}
+
 ### Pros and Cons:
 Before we delve deeper, let's briefly examine the summarized pros and cons of the 2nd Arcana in the Destiny Matrix:
 
@@ -28,7 +30,6 @@ Before we delve deeper, let's briefly examine the summarized pros and cons of th
 - **Overemphasis on others' opinions**: Those under the influence of the 2nd Arcana may rely heavily on others' opinions and validation. They may seek external approval before making decisions, which can hinder personal autonomy and self-confidence.
 - **Avoidance of conflicts**: Individuals with the 2nd Arcana have a strong aversion to conflicts and may go to great lengths to avoid confrontations. While this promotes harmony, it can also lead to unresolved issues or unexpressed emotions.
 
-{{<image link="2-dark.webp" alt="2nd arcana attributes dark version">}}
 
 
 ### Basic Introduction to the Energy of the 2nd Arcana:

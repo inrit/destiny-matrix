@@ -10,6 +10,8 @@ featured_image: '1-vector.webp'
 ### Introduction:
 When analyzing Destiny Matrix, each number holds profound significance, symbolizing distinct energies and traits. In this article, we will embark on an exploration of the meaning behind the number one or the 1st Arcana in the Destiny Matrix system. We will uncover its positive and negative aspects, provide a brief introduction to its energy, and then delve into a comprehensive explanation of the energies associated with the 1st Arcana.
 
+{{<image link="1-dark.webp" alt="1st arcana attributes dark version">}}
+
 ### Short Summarized Pros and Cons:
 Before we delve deeper, let's take a glance at the summarized pros and cons of the 1st Arcana in the Destiny Matrix:
 
@@ -28,7 +30,6 @@ Before we delve deeper, let's take a glance at the summarized pros and cons of t
 - Difficulty in accepting criticism or alternative viewpoints
 - Overwhelming desire for control and authority
 
-{{<image link="1-dark.webp" alt="1st arcana attributes dark version">}}
 
 ### Basic Introduction to the Energy of the 1st Arcana:
 The 1st Arcana in the Destiny Matrix embodies the energy of individuality, leadership, and self-expression. It represents the traits of a natural-born leader, someone who possesses charisma, confidence, and the ability to inspire those around them. Individuals influenced by the 1st Arcana are driven by a strong sense of determination and a desire for success in all areas of life.

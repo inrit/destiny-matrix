@@ -45,6 +45,3 @@ Example: A person who meticulously plans every aspect of their life, setting hig
 In conclusion, the 8th Arcana in Destiny Matrix represents the energies of strength, resilience, and the ability to overcome challenges. By understanding the positive and negative aspects of the 8th Arcana, individuals can harness their inner strength, embrace adaptability, and find the balance between perseverance and self-care.
 
 {{<image link="8-light.webp" alt="8th arcana attributes light version">}}
-
-
-

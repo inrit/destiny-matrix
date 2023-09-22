@@ -1,6 +1,6 @@
 ---
 title: "Number 10 in Destiny Matrix? The 10th Arcana"
-date: 2023-09-10T10:12:27+03:00
+date: 2023-09-21T10:12:27+03:00
 draft: false
 categories: [beginner, 10th arcana, basics, number 10]
 description: "Explore the profound energies of the 10th Arcana in the Destiny Matrix system, representing cycles, change, and the interplay of fate and free will, as relatable real-life examples illuminate its influence."

@@ -1,6 +1,6 @@
 ---
 title: "Number 8 in Destiny Matrix? The Eight Arcana"
-date: 2023-09-20T09:30:27+03:00
+date: 2023-09-20T16:25:27+03:00
 draft: false
 categories: [beginner, 8th arcana, basics, number 8]
 description: "Explore the profound energies of the 8th Arcana in the Destiny Matrix, representing strength and resilience, as relatable real-life examples shed light on its influence."

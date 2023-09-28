@@ -1,10 +1,10 @@
 ---
-title: "Number 7 in Destiny Matrix? The Seventh Arcana"
+title: "Number 7 in Destiny Matrix? The 7th Arcana"
 date: 2023-09-20T16:22:27+03:00
 draft: false
 categories: [beginner, 7th arcana, basics, number 7]
 description: "Embark on a journey of self-mastery and determination as we explore the essence of the 7th Arcana in Destiny Matrix, discovering its influence on personal drive and triumph, accompanied by relatable real-life examples."
-featured_image: 7-vector.webp'
+featured_image: '7-vector.webp'
 ---
 
 ### Introduction:
@@ -12,7 +12,7 @@ Within the realm of Destiny Matrix, each number carries profound symbolism and i
 
 {{<image link="7-dark.webp" alt="7th arcana attributes dark version">}}
 
-### Short Summarized Pros and Cons:
+### Summarized Pros and Cons:
 Before delving deeper, let's briefly explore the summarized pros and cons associated with the 7th Arcana in the Destiny Matrix:
 
 #### Pros:

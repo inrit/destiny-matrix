@@ -1,5 +1,5 @@
 ---
-title: "Number 2 in Destiny Matrix? The Second Arcana"
+title: "Number 2 in Destiny Matrix? The 2nd Arcana"
 date: 2023-09-09T09:15:27+03:00
 draft: false
 categories: [beginner, 2nd arcana, basics, number 2]

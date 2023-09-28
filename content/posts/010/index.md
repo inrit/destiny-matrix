@@ -1,5 +1,5 @@
 ---
-title: "Number 8 in Destiny Matrix? The Eight Arcana"
+title: "Number 8 in Destiny Matrix? The 8th Arcana"
 date: 2023-09-20T16:25:27+03:00
 draft: false
 categories: [beginner, 8th arcana, basics, number 8]

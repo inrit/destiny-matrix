@@ -1,5 +1,5 @@
 ---
-title: "Number 1 in Destiny Matrix? The First Arcana"
+title: "Number 1 in Destiny Matrix? The 1st Arcana"
 date: 2023-06-05T09:15:27+03:00
 draft: false
 categories: [beginner, 1st arcana, basics, number 1]

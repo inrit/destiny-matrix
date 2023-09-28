@@ -1,5 +1,5 @@
 ---
-title: "Number 4 in Destiny Matrix? The Fourth Arcana"
+title: "Number 4 in Destiny Matrix? The 4th Arcana"
 date: 2023-09-15T09:15:27+03:00
 draft: false
 categories: [beginner, 4th arcana, basics, number 4]

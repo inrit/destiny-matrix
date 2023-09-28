@@ -1,5 +1,5 @@
 ---
-title: "Number 9 in Destiny Matrix? The Ninth Arcana"
+title: "Number 9 in Destiny Matrix? The 9th Arcana"
 date: 2023-09-21T10:01:27+03:00
 draft: false
 categories: [beginner, 9th arcana, basics, number 9]

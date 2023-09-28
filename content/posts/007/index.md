@@ -1,5 +1,5 @@
 ---
-title: "Number 5 in Destiny Matrix? The Fifth Arcana"
+title: "Number 5 in Destiny Matrix? The 5th Arcana"
 date: 2023-09-20T09:15:27+03:00
 draft: false
 categories: [beginner, 5th arcana, basics, number 5]

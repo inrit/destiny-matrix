@@ -1,5 +1,5 @@
 ---
-title: "Number 3 in Destiny Matrix? The Third Arcana"
+title: "Number 3 in Destiny Matrix? The 3rd Arcana"
 date: 2023-09-10T09:15:27+03:00
 draft: false
 categories: [beginner, 3rd arcana, basics, number 3]

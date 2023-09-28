@@ -4,7 +4,7 @@ date: 2023-09-28T11:16:27+03:00
 draft: false
 categories: [beginner, 21st arcana, basics, number 21]
 description: "Unveil the transformative energies of the 21st Arcana in Destiny Matrix, embodying wholeness, completion, and the integration of life's experiences. Discover how to celebrate achievements, find harmony, and embrace new possibilities for a fulfilling journey."
-featured_image: '21-dark.webp'
+featured_image: '21-light.webp'
 ---
 
 ### Introduction:

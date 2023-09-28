@@ -4,7 +4,7 @@ date: 2023-09-28T11:15:27+03:00
 draft: false
 categories: [beginner, 20th arcana, basics, number 20]
 description: "Explore the profound energies of the 20th Arcana in Destiny Matrix, symbolizing personal growth, inner transformation, and the power of self-reflection."
-featured_image: '20-dark.webp'
+featured_image: '20-light.webp'
 ---
 
 ### Introduction:

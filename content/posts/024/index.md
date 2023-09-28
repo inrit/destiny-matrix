@@ -4,7 +4,7 @@ date: 2023-09-28T11:18:27+03:00
 draft: false
 categories: [beginner, 22nd arcana, basics, number 22]
 description: "Delve into the transformative energies of the 22nd Arcana in Destiny Matrix, symbolizing the essence of new beginnings, taking leaps of faith, and embracing the journey of self-discovery."
-featured_image: '22-dark.webp'
+featured_image: '22-light.webp'
 ---
 
 ### Introduction:
